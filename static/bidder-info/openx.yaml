@@ -1,0 +1,13 @@
+maintainer:
+  email: "prebid@openx.com"
+gvlVendorID: 69
+capabilities:
+  app:
+    mediaTypes:
+      - banner
+      - video
+  site:
+    mediaTypes:
+      - banner
+      - video
+modifyingVastXmlAllowed: true

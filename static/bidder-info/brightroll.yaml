@@ -1,0 +1,12 @@
+maintainer:
+  email: "dsp-supply-prebid@verizonmedia.com"
+gvlVendorID: 25
+capabilities:
+  app:
+    mediaTypes:
+      - banner
+      - video
+  site:
+    mediaTypes:
+      - banner
+      - video

@@ -1,0 +1,10 @@
+maintainer:
+  email: "sovrnoss@sovrn.com"
+gvlVendorID: 13
+capabilities:
+  app:
+    mediaTypes:
+      - banner
+  site:
+    mediaTypes:
+      - banner

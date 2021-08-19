@@ -1,0 +1,14 @@
+{
+  "uid": 1,
+  "keywords": {
+    "site": {
+      "somePublisher": [
+        {
+          "name": "someName",
+          "topic": ["stress", "fear"]
+        }
+      ]
+    }
+  }
+}
+
